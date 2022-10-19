@@ -1,4 +1,5 @@
 # RICOH360 Website
+## this is a test
 
 Website for RICOH360
 
@@ -108,3 +109,4 @@ Run dev server:
 ```
 yarn start
 ```
+## this is a test
